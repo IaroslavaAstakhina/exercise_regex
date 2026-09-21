@@ -1,0 +1,19 @@
+SampleID;FBarcodeSequence;RBarcodeSequence;CountryOfOrigin;Description
+21;ACGAGTGCGT;ACGAGTGCGT;Vietnam;Paracheirodon_axelrodi
+22;ACGCTCGACA;ACGCTCGACA;Vietnam;Poecilia_sphenops
+23;AGACGCACTC;AGACGCACTC;Vietnam;Hypostomus_plecostomus
+29;AGCACTGTAG;AGCACTGTAG;Peru;Otocinclus_affinis
+32;ATCAGACACG;ATCAGACACG;Peru;Otocinclus_affinis
+44;CGTGTCTCTA;CGTGTCTCTA;Vietnam;Plecostomus_Gold
+46;CTCGCGTGTC;CTCGCGTGTC;Vietnam;Gold_Black_Molla
+55;TAGTATCAGC;TAGTATCAGC;Vietnam;V4
+51;TCTCTATGCG;TCTCTATGCG;Singapore;Colisa_lalia_blood_red_K574_samecci
+52;CGAGAGATAC;CGAGAGATAC;Singapore;Colisa_lalia_blood_red_K574_samicky
+28;ATACGACGTA;ATACGACGTA;Peru;Panaqolus_changae
+43;TCACGTACTA;TCACGTACTA;Thailand;Poecilia_sphenops
+30;TCTACGTAGC;TCTACGTAGC;Peru;Surubim_Lima
+40;ACGACTACAG;ACGACTACAG;Vietnam;Sewelia
+61;TACGAGTATG;TACGAGTATG;Vietnam;Xiphophorus_maculatus
+35;CACGTAGATC;CACGTAGATC;Hong_Kong ;Pseudotropheus_Cheni
+39;ACTACTATGT;ACTACTATGT;China;Xenopus_laevis_Albin
+57;AGACTATACT;AGACTATACT;Vietnam;Gyrinocheilus

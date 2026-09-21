@@ -1,0 +1,6 @@
+[project]
+name = "exercise-regex"
+version = "0.1.0"
+description = "Regular expressions in Python with bioinformatics examples"
+requires-python = ">=3.11"
+dependencies = []
